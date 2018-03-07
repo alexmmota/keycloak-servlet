@@ -1,0 +1,11 @@
+{
+  "realm": "teste",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "teste-api",
+  "credentials": {
+    "secret": "511ed24a-79ea-4912-9430-d5b1faaed7d7"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
